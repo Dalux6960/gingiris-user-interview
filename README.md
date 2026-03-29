@@ -322,7 +322,7 @@ Want all playbooks in one comprehensive package? Get the **Open-Source Project I
 **Iris (生姜iris)** — Former cofounder & COO of AFFiNE, led global go-to-market from 0 to millions of users.
 
 - 💬 Telegram: [@Iris_carrot](https://t.me/Iris_carrot)
-- 🐦 Twitter: [@Gingiris_](https://twitter.com/Gingiris_)
+- 🐦 Twitter: [@WeiYipei](https://x.com/WeiYipei)
 - 📱 即刻: 生姜iris
 
 ### Consulting
